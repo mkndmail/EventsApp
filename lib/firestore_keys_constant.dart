@@ -1,0 +1,10 @@
+const kEventName = 'event_name';
+const kDescription = 'description';
+const kDateOfEvent = 'date_event';
+const kTimeOfEvent = 'time_event';
+const kImageURL = 'image';
+const kNumberOfUsers = 'number_of_users';
+const kJoinEvent = 'join_event';
+const kCollectionName = 'events';
+const kAddingTime = 'add_time';
+const kDocumentID='document_id';
